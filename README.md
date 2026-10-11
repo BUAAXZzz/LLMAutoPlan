@@ -1,4 +1,11 @@
 # LLMAutoPlan
+---
+
+🎉 **News:** This work has been officially accepted by the **Annals of the New York Academy of Sciences (NYAS)**!
+
+Official Code of  **“A Large Language Model Framework for Seed Implant Brachytherapy: Adaptive Weight Optimization via Retrieval-Augmented Generation”**
+
+---
 📌 Overview
 
 This repository implements a locally deployed, retrieval-augmented large language model (RE-LLM) framework for adaptive weight optimization in Seed Implant Brachytherapy (SIBT).
